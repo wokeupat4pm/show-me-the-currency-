@@ -1,6 +1,7 @@
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Dz yeu linh");
+	System.out.println("Em khong yeu anhhh");
         System.out.println("Hello, World!");
         System.out.println("Dz có yêuuuuu Linh");  
         int firstNumber = add(6, 9);
