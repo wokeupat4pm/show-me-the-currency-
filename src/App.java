@@ -1,5 +1,6 @@
 class HelloWorld {
     public static void main(String[] args) {
+        System.out.println("Dz yeu linh");
         System.out.println("Hello, World!");
         System.out.println("Dz có yêuuuuu Linh");  
         int firstNumber = add(6, 9);
@@ -15,4 +16,5 @@ class HelloWorld {
     public static int mul(int a, int b) {
         return a * b;
     }
+
 }
