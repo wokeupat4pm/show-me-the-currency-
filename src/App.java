@@ -1,6 +1,7 @@
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
+        System.out.println("Dz có yêuuuuu Linh");  
         int firstNumber = add(6, 9);
         int secondNumber = mul(6, 9);
         int finalNumber = add(firstNumber, secondNumber);
